@@ -16,5 +16,5 @@ while L=='':
 print(L)
 if L == 'Bonjour':
     print('Est ce que je peux vous aider?')
-elif L!='': print('nothing')
+elif L!='': print('Vous N\'avais rien dit')
 elif L=='':print('empty')
