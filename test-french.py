@@ -17,4 +17,4 @@ print(L)
 if L == 'Bonjour':
     print('Est ce que je peux vous aider?')
 elif L!='': print('Vous N\'avais rien dit')
-elif L=='':print('empty')
+elif L=='':print('Vide')
